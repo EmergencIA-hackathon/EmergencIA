@@ -76,7 +76,7 @@ const eyewitnessData = z.object({
 const crimesCommited = z
     .nullable(z.string())
     .describe(
-        "Qual foi o tipo de crime efetuado na ocorrência? Retorne a resposta como estão dentro de cada um dos parenteses: A vítima foi roubada? (Roubo). A vítima sofreu algum tipo de lesão corporal? (Lesão Corporal). A vítima sofreu estelionato? (Estelionato). A denuncia é de tráfico de drogas? (Tráfico de Drogas) A vitima foi alvo de violencia contra a mulher? (Violência Contra Mulher"
+        "Qual foi o tipo de crime efetuado na ocorrência? Retorne a resposta como estão dentro de cada um dos parenteses: A vítima foi roubada? (Roubo). A vítima sofreu algum tipo de lesão corporal? (Lesão Corporal). A vítima sofreu estelionato? (Estelionato). A denuncia é de tráfico de drogas? (Tráfico de Drogas) A vitima foi alvo de violencia contra a mulher? (Violência Contra Mulher)"
     );
 
 const locationData = z.object({

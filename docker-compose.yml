@@ -41,7 +41,20 @@ services:
       - NGROK_AUTHTOKEN=${NGROK_AUTHTOKEN} 
       - NGROK_PORT=telegram-bot:5000
     ports:
-      - "4041:4040"  # Porta para acessar o dashboard do ngrok e ver os túneis
+      - "4041:4040" 
+      
+  dashboard:
+    container_name: emergencia_dashboard_cont
+    build: ./dashboard/
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./dashboard:/app
+      - ./chatbot-telegram/flask_app/ocorrencias.json:/app/chatbot-telegram/flask_app/ocorrencias.json
+    networks:
+      - emergencia_network
+    depends_on:
+      - telegram-bot
 
 networks:
   emergencia_network:
