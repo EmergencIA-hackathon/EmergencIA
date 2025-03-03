@@ -37,8 +37,8 @@ docker compose up --build -d | docker compose up -d
 
 ## Desenvolvedores
 
-- **[Jennifer Karoline da Silva Domingos]** (https://github.com/jenniferdomgs)
-- **[João Felipe Souza de Lima]** (https://github.com/felijoao08)
-- **[João Pedro Augusto da Silva]** (https://github.com/PedroAug91)
-- **[Maria da Conceição Dantas Pontes]** (https://github.com/mariadp17)
-- **[Tereza Stephanny de Brito Félix]** (https://github.com/stephannyb)
+- [**Jennifer Karoline da Silva Domingos**] (https://github.com/jenniferdomgs)
+- [**João Felipe Souza de Lima**] (https://github.com/felijoao08)
+- [**João Pedro Augusto da Silva**] (https://github.com/PedroAug91)
+- [**Maria da Conceição Dantas Pontes**] (https://github.com/mariadp17)
+- [**Tereza Stephanny de Brito Félix**] (https://github.com/stephannyb)
