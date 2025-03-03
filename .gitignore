@@ -4,3 +4,4 @@
 **/__pycache__/
 **/*.log
 **/docker-compose.override.yml
+**/ocorrencias.json
