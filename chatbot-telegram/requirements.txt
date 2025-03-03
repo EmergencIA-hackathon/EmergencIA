@@ -1,0 +1,16 @@
+pydub
+SpeechRecognition
+requests
+python-telegram-bot
+flask
+aiohttp
+gunicorn
+Flask[async]
+python-dotenv
+pytesseract
+pillow
+opencv-python
+nest_asyncio
+
+
+

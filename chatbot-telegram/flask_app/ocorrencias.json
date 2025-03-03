@@ -1,0 +1,969 @@
+[
+    {},
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 00:26:46",
+        "conteudo": "Oi"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 18:43:30",
+        "conteudo": "Fui roubado em santa Catarina"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 18:52:18",
+        "conteudo": "Oi"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 18:53:44",
+        "conteudo": "Oi"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 18:56:43",
+        "conteudo": "Oi"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 18:57:38",
+        "conteudo": "Fui roubado em santa Catarina"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 18:57:49",
+        "conteudo": "Fui roubado em santa Catarina"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 19:10:09",
+        "conteudo": "Oi"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 20:19:26",
+        "conteudo": "Oi"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 20:19:38",
+        "conteudo": "Fui roubado"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 20:19:43",
+        "conteudo": "Fui roubado"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 20:21:14",
+        "conteudo": "Oi"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 20:21:26",
+        "conteudo": "Fui assaltado no Midway Mall"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 20:21:38",
+        "conteudo": "Fui assaltado no Midway Mall"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 20:26:09",
+        "conteudo": "Oi"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 20:26:16",
+        "conteudo": "Me roubaram ontem a noite"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 20:26:19",
+        "conteudo": "Me roubaram ontem a noite"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 20:33:39",
+        "conteudo": "Oi"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 20:33:45",
+        "conteudo": "Fui roubado"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 20:33:48",
+        "conteudo": "Fui roubado"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 20:41:37",
+        "conteudo": "Oi"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 20:41:45",
+        "conteudo": "Fui roubado"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 20:41:48",
+        "conteudo": "Fui roubado"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 20:44:33",
+        "conteudo": "Oi"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 20:44:41",
+        "conteudo": "Fui furtado"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 20:44:45",
+        "conteudo": "Fui furtado"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 20:48:29",
+        "conteudo": "Oi"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 20:49:01",
+        "conteudo": "Fui roubado em Ceará-Mirim, as 20h20 do dia 10/02/2025. Um homem armado levou meu iPhone."
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 20:49:06",
+        "conteudo": "Fui roubado em Ceará-Mirim, as 20h20 do dia 10/02/2025. Um homem armado levou meu iPhone."
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 20:49:52",
+        "conteudo": "Oi"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 20:49:59",
+        "conteudo": "Fui roubado em Ceará-Mirim, as 20h20 do dia 10/02/2025. Um homem armado levou meu iPhone."
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 20:50:02",
+        "conteudo": "Fui roubado em Ceará-Mirim, as 20h20 do dia 10/02/2025. Um homem armado levou meu iPhone."
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 21:01:17",
+        "conteudo": "Oi"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 21:01:24",
+        "conteudo": "Fui roubado em Ceará-Mirim, as 20h20 do dia 10/02/2025. Um homem armado levou meu iPhone."
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 21:01:27",
+        "conteudo": "Fui roubado em Ceará-Mirim, as 20h20 do dia 10/02/2025. Um homem armado levou meu iPhone."
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 21:03:03",
+        "conteudo": "Oo"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 21:03:15",
+        "conteudo": "Fui roubado em Ceará-Mirim, as 20h20 do dia 10/02/2025. Um homem armado levou meu iPhone."
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 21:03:20",
+        "conteudo": "Fui roubado em Ceará-Mirim, as 20h20 do dia 10/02/2025. Um homem armado levou meu iPhone."
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 21:05:27",
+        "conteudo": "Oi"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 21:05:33",
+        "conteudo": "Fui roubado em Ceará-Mirim, as 20h20 do dia 10/02/2025. Um homem armado levou meu iPhone."
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 21:05:38",
+        "conteudo": "Fui roubado em Ceará-Mirim, as 20h20 do dia 10/02/2025. Um homem armado levou meu iPhone."
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 21:07:04",
+        "conteudo": "Oi"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 21:07:13",
+        "conteudo": "Fui assaltado"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 21:07:17",
+        "conteudo": "Fui assaltado"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 21:08:41",
+        "conteudo": "Oi"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 21:08:47",
+        "conteudo": "Fui assaltado"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 21:08:51",
+        "conteudo": "Fui assaltado"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 21:12:37",
+        "conteudo": "Oi"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 21:12:43",
+        "conteudo": "Roubaram meu carro"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 21:12:46",
+        "conteudo": "Roubaram meu carro"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 22:16:06",
+        "conteudo": "Oi"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 22:16:20",
+        "conteudo": "Roubaram minha moto em Ceará-Mirim"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 22:16:23",
+        "conteudo": "Roubaram minha moto em Ceará-Mirim"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 22:18:31",
+        "conteudo": "Oi"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 22:20:01",
+        "conteudo": "endereco rua joaquim tomas 100, centro sao tome rn, que eh uma casa amarela com a porta verde, existem dois homens um de camisa preta e short jeans e outro de short preto sem camisa com uma tatuagem de palhaco no braco esquerdo vendendo maconha em cigarros e pacotes de cocaína"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 22:20:04",
+        "conteudo": "endereco rua joaquim tomas 100, centro sao tome rn, que eh uma casa amarela com a porta verde, existem dois homens um de camisa preta e short jeans e outro de short preto sem camisa com uma tatuagem de palhaco no braco esquerdo vendendo maconha em cigarros e pacotes de cocaína"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 22:22:43",
+        "conteudo": "Oi"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 22:22:51",
+        "conteudo": "alguem denunciar que no endereco rua joaquim tomas 100, centro sao tome rn, que eh uma casa amarela com a porta verde, existem dois homens um de camisa pretaa e short jeans e outro de short preso sem camisa com uma tatuagem de palhaco no braco esquerdo vendendo maconha, tanto em pacotes como em cigarros ja prontos"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 22:22:55",
+        "conteudo": "alguem denunciar que no endereco rua joaquim tomas 100, centro sao tome rn, que eh uma casa amarela com a porta verde, existem dois homens um de camisa pretaa e short jeans e outro de short preso sem camisa com uma tatuagem de palhaco no braco esquerdo vendendo maconha, tanto em pacotes como em cigarros ja prontos"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 22:25:00",
+        "conteudo": "Oi"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 22:25:13",
+        "conteudo": "alguem denunciar que no endereco rua joaquim tomas 100, centro sao tome rn, que eh uma casa amarela com a porta verde, existem dois homens um de camisa pretaa e short jeans e outro de short preso sem camisa com uma tatuagem de palhaco no braco esquerdo vendendo maconha, tanto em pacotes como em cigarros ja prontos"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 22:25:20",
+        "conteudo": "alguem denunciar que no endereco rua joaquim tomas 100, centro sao tome rn, que eh uma casa amarela com a porta verde, existem dois homens um de camisa pretaa e short jeans e outro de short preso sem camisa com uma tatuagem de palhaco no braco esquerdo vendendo maconha, tanto em pacotes como em cigarros ja prontos"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 22:39:47",
+        "conteudo": "Oi"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 22:40:13",
+        "conteudo": "endereco rua joaquim tomas 100, centro sao tome rn, que eh uma casa amarela com a porta verde, existem dois homens um de camisa pretaa e short jeans e outro de short preso sem camisa com uma tatuagem de palhaco no braco esquerdo traficando maconha, tanto em pacotes como em cigarros ja prontos"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-01 22:40:17",
+        "conteudo": "endereco rua joaquim tomas 100, centro sao tome rn, que eh uma casa amarela com a porta verde, existem dois homens um de camisa pretaa e short jeans e outro de short preso sem camisa com uma tatuagem de palhaco no braco esquerdo traficando maconha, tanto em pacotes como em cigarros ja prontos"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-02 01:17:03",
+        "conteudo": "Oi"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-02 01:20:13",
+        "conteudo": "Estava na festa de carnaval na praça dos gringos, em ponta negra, Natal. Quando fui assaltada por um casal, o homem estava aramado e fez a ameaça e a mulher levou minha bolsa. Na bolsa estava minha carteira com minha CNH, cartão de banco e cartão de plano de saúde. E meu celular Xiaomi poco X5 pro. O homem estava de calça e camisa preta e boné branco da Adidas, a moça estava de saia jeans e blusa tomara que caia rosa, tinha cabelo preto."
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-02 01:20:55",
+        "conteudo": "Estava na festa de carnaval na praça dos gringos, em ponta negra, Natal. Quando fui assaltada por um casal, o homem estava aramado e fez a ameaça e a mulher levou minha bolsa. Na bolsa estava minha carteira com minha CNH, cartão de banco e cartão de plano de saúde. E meu celular Xiaomi poco X5 pro. O homem estava de calça e camisa preta e boné branco da Adidas, a moça estava de saia jeans e blusa tomara que caia rosa, tinha cabelo preto."
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-02 01:22:34",
+        "conteudo": "Oii"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-02 01:23:13",
+        "conteudo": "Estava na festa de carnaval na praça dos gringos, em ponta negra, Natal. Quando fui assaltada por um casal, o homem estava armado com um revólver e fez a ameaça e a mulher levou minha bolsa. Na bolsa estava minha carteira com minha CNH número 062005391639273, cartão de banco Inter número 277947293 e cartão de plano de saúde hapvida. E meu celular Xiaomi poco X5 pro. O homem estava de calça e camisa preta e boné branco da Adidas, a moça estava de saia jeans e blusa tomara que caia rosa, tinha cabelo preto."
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-02 01:23:22",
+        "conteudo": "Estava na festa de carnaval na praça dos gringos, em ponta negra, Natal. Quando fui assaltada por um casal, o homem estava armado com um revólver e fez a ameaça e a mulher levou minha bolsa. Na bolsa estava minha carteira com minha CNH número 062005391639273, cartão de banco Inter número 277947293 e cartão de plano de saúde hapvida. E meu celular Xiaomi poco X5 pro. O homem estava de calça e camisa preta e boné branco da Adidas, a moça estava de saia jeans e blusa tomara que caia rosa, tinha cabelo preto."
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-02 01:27:14",
+        "conteudo": "Oi"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-02 01:27:41",
+        "conteudo": "Estava na festa de carnaval na praça dos gringos, em ponta negra, Natal. Quando fui assaltada por um casal, o homem estava armado com um revólver e fez a ameaça e a mulher levou minha bolsa. Na bolsa estava minha carteira com minha CNH número 062005391639273, cartão de banco Inter número 277947293 e cartão de plano de saúde hapvida. E meu celular Xiaomi poco X5 pro. O homem estava de calça e camisa preta e boné branco da Adidas, a moça estava de saia jeans e blusa tomara que caia rosa, tinha cabelo preto."
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-02 01:27:45",
+        "conteudo": "Estava na festa de carnaval na praça dos gringos, em ponta negra, Natal. Quando fui assaltada por um casal, o homem estava armado com um revólver e fez a ameaça e a mulher levou minha bolsa. Na bolsa estava minha carteira com minha CNH número 062005391639273, cartão de banco Inter número 277947293 e cartão de plano de saúde hapvida. E meu celular Xiaomi poco X5 pro. O homem estava de calça e camisa preta e boné branco da Adidas, a moça estava de saia jeans e blusa tomara que caia rosa, tinha cabelo preto."
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-02 13:14:10",
+        "conteudo": "Oi"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-02 13:14:44",
+        "conteudo": "Fui roubado por um homem armado na rua Ceará-Mirim, Ceará-Mirim RN em frente a uma casa amarela."
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-02 13:14:48",
+        "conteudo": "Fui roubado por um homem armado na rua Ceará-Mirim, Ceará-Mirim RN em frente a uma casa amarela."
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-02 13:34:12",
+        "conteudo": "Oi"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-02 13:34:20",
+        "conteudo": "Estava na festa de carnaval na praça dos gringos, em ponta negra, Natal. Quando fui assaltada por um casal, o homem estava armado com um revólver e fez a ameaça e a mulher levou minha bolsa. Na bolsa estava minha carteira com minha CNH número 062005391639273, cartão de banco Inter número 277947293 e cartão de plano de saúde hapvida. E meu celular Xiaomi poco X5 pro. O homem estava de calça e camisa preta e boné branco da Adidas, a moça estava de saia jeans e blusa tomara que caia rosa, tinha cabelo preto."
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-02 13:34:23",
+        "conteudo": "Estava na festa de carnaval na praça dos gringos, em ponta negra, Natal. Quando fui assaltada por um casal, o homem estava armado com um revólver e fez a ameaça e a mulher levou minha bolsa. Na bolsa estava minha carteira com minha CNH número 062005391639273, cartão de banco Inter número 277947293 e cartão de plano de saúde hapvida. E meu celular Xiaomi poco X5 pro. O homem estava de calça e camisa preta e boné branco da Adidas, a moça estava de saia jeans e blusa tomara que caia rosa, tinha cabelo preto."
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 318229493,
+        "usuario": "Stephanny",
+        "data_hora": "2025-03-02 14:08:57",
+        "conteudo": "Oi"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 318229493,
+        "usuario": "Stephanny",
+        "data_hora": "2025-03-02 14:09:02",
+        "conteudo": "Oi"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 318229493,
+        "usuario": "Stephanny",
+        "data_hora": "2025-03-02 14:10:36",
+        "conteudo": "Mensagem sem texto"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 318229493,
+        "usuario": "Stephanny",
+        "data_hora": "2025-03-02 14:11:29",
+        "conteudo": "meu nome é Tereza Stephanie eu fui assaltada na Rua Escritor Ulisses Farias Lacerda em frente ao Villa Park às 11:05 por dois caras em uma moto vermelha de placa noe 1234 o passageiro de trás estava com capacete preto e uma blusa amarela e eu não consegui ver o passageiro da frente eles levaram minha bicicleta que é da marca South é preta com laranja e meu telefone celular que é um iPhone 13"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-02 21:26:10",
+        "conteudo": "Oi"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-02 21:26:46",
+        "conteudo": "Socorro tem um homens armado atirando em todo mundo aqui na rua. Px: a Zefa costureira e seu Chico do churrasquinho de gato."
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-02 21:26:46",
+        "conteudo": "Falaram que o atirador é Um tal de Mão Santa. Que não erra um tiro. Mas, já errou mais de 10 só hj."
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-02 21:27:00",
+        "conteudo": "Mensagem sem texto"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-02 21:27:33",
+        "conteudo": "Mensagem sem texto"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-02 21:27:39",
+        "conteudo": "Socorro tem um homens armado atirando em todo mundo aqui na rua. Px: a Zefa costureira e seu Chico do churrasquinho de gato.\nFalaram que o atirador é Um tal de Mão Santa. Que não erra um tiro. Mas, já errou mais de 10 só hj.\n📍 Localização: Comando Geral da Polícia Militar do Rio Grande do Norte, Avenida Rodrigues Alves, Tirol, Zona Leste, Natal, Região Geográfica Imediata de Natal, Região Geográfica Intermediária de Natal, Rio Grande do Norte, Região Nordeste, 59020-065, Brasil (Latitude: -5.79557, Longitude: -35.202741)"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-02 21:29:44",
+        "conteudo": "Oi"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-02 21:30:12",
+        "conteudo": "Socorro tem um homens armado atirando em todo mundo aqui na rua. Px: a Zefa costureira e seu Chico do churrasquinho de gato.\nFalaram que o atirador é Um tal de Mão Santa. Que não erra um tiro. Mas, já errou mais de 10 só hj."
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-02 21:30:24",
+        "conteudo": "Mensagem sem texto"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-02 21:30:30",
+        "conteudo": "Socorro tem um homens armado atirando em todo mundo aqui na rua. Px: a Zefa costureira e seu Chico do churrasquinho de gato.\nFalaram que o atirador é Um tal de Mão Santa. Que não erra um tiro. Mas, já errou mais de 10 só hj.\n📍 Localização: Comando Geral da Polícia Militar do Rio Grande do Norte, Avenida Rodrigues Alves, Tirol, Zona Leste, Natal, Região Geográfica Imediata de Natal, Região Geográfica Intermediária de Natal, Rio Grande do Norte, Região Nordeste, 59020-065, Brasil (Latitude: -5.79557, Longitude: -35.202741)"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-02 21:31:12",
+        "conteudo": "Oi"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-02 21:31:21",
+        "conteudo": "Socorro tem um homens armado atirando em todo mundo aqui na rua. Px: a Zefa costureira e seu Chico do churrasquinho de gato.\nFalaram que o atirador é Um tal de Mão Santa. Que não erra um tiro. Mas, já errou mais de 10 só hj."
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-02 21:31:34",
+        "conteudo": "Mensagem sem texto"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-02 21:31:39",
+        "conteudo": "Socorro tem um homens armado atirando em todo mundo aqui na rua. Px: a Zefa costureira e seu Chico do churrasquinho de gato.\nFalaram que o atirador é Um tal de Mão Santa. Que não erra um tiro. Mas, já errou mais de 10 só hj.\n📍 Localização: Comando Geral da Polícia Militar do Rio Grande do Norte, Avenida Rodrigues Alves, Tirol, Zona Leste, Natal, Região Geográfica Imediata de Natal, Região Geográfica Intermediária de Natal, Rio Grande do Norte, Região Nordeste, 59020-065, Brasil (Latitude: -5.79557, Longitude: -35.202741)"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-02 21:34:16",
+        "conteudo": "Socorro tem um homens armado atirando em todo mundo aqui na rua. Px: a Zefa costureira e seu Chico do churrasquinho de gato.\nFalaram que o atirador é Um tal de Mão Santa. Que não erra um tiro. Mas, já errou mais de 10 só hj."
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-02 21:34:20",
+        "conteudo": "Socorro tem um homens armado atirando em todo mundo aqui na rua. Px: a Zefa costureira e seu Chico do churrasquinho de gato.\nFalaram que o atirador é Um tal de Mão Santa. Que não erra um tiro. Mas, já errou mais de 10 só hj."
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-02 21:38:49",
+        "conteudo": "Socorro tem um homens armado atirando em todo mundo aqui na rua. Px: a Zefa costureira e seu Chico do churrasquinho de gato.\nFalaram que o atirador é Um tal de Mão Santa. Que não erra um tiro. Mas, já errou mais de 10 só hj."
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-02 21:38:52",
+        "conteudo": "Socorro tem um homens armado atirando em todo mundo aqui na rua. Px: a Zefa costureira e seu Chico do churrasquinho de gato.\nFalaram que o atirador é Um tal de Mão Santa. Que não erra um tiro. Mas, já errou mais de 10 só hj."
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-02 21:40:25",
+        "conteudo": "Socorro tem um homens armado atirando em todo mundo aqui na rua. Px: a Zefa costureira e seu Chico do churrasquinho de gato.\nFalaram que o atirador é Um tal de Mão Santa. Que não erra um tiro. Mas, já errou mais de 10 só hj."
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-02 21:40:29",
+        "conteudo": "Socorro tem um homens armado atirando em todo mundo aqui na rua. Px: a Zefa costureira e seu Chico do churrasquinho de gato.\nFalaram que o atirador é Um tal de Mão Santa. Que não erra um tiro. Mas, já errou mais de 10 só hj."
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-02 21:41:35",
+        "conteudo": "Socorro tem um homens armado atirando em todo mundo aqui na rua. Px: a Zefa costureira e seu Chico do churrasquinho de gato.\nFalaram que o atirador é Um tal de Mão Santa. Que não erra um tiro. Mas, já errou mais de 10 só hj."
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-02 21:41:39",
+        "conteudo": "Socorro tem um homens armado atirando em todo mundo aqui na rua. Px: a Zefa costureira e seu Chico do churrasquinho de gato.\nFalaram que o atirador é Um tal de Mão Santa. Que não erra um tiro. Mas, já errou mais de 10 só hj."
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 318229493,
+        "usuario": "Stephanny",
+        "data_hora": "2025-03-02 21:56:17",
+        "conteudo": "Fui vítima de um golpe do Pix"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 7896910646,
+        "usuario": "Jennifer",
+        "data_hora": "2025-03-02 21:56:34",
+        "conteudo": "fui assaltada no centro de ceará-mirim ontem por volta das 18h, levaram meus documentos e cartões"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 7896910646,
+        "usuario": "Jennifer",
+        "data_hora": "2025-03-02 21:56:40",
+        "conteudo": "fui assaltada no centro de ceará-mirim ontem por volta das 18h, levaram meus documentos e cartões"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 318229493,
+        "usuario": "Stephanny",
+        "data_hora": "2025-03-02 21:58:43",
+        "conteudo": "Uma suposta loja no Instagram me vendeu um smartwatch da Xiaomi, fiz o pagamento de 399.90 via Pix e agora a loja não aparece mais a conta da loja era @lojateste. Fiz o pagamento ontem do banco Inter para a chave Pix 84999887755 em nome de Ana Maria da Silva do banco Santander."
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 318229493,
+        "usuario": "Stephanny",
+        "data_hora": "2025-03-02 21:59:07",
+        "conteudo": "Fui vítima de um golpe do Pix\nUma suposta loja no Instagram me vendeu um smartwatch da Xiaomi, fiz o pagamento de 399.90 via Pix e agora a loja não aparece mais a conta da loja era @lojateste. Fiz o pagamento ontem do banco Inter para a chave Pix 84999887755 em nome de Ana Maria da Silva do banco Santander."
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 318229493,
+        "usuario": "Stephanny",
+        "data_hora": "2025-03-02 22:02:05",
+        "conteudo": "Oi"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 318229493,
+        "usuario": "Stephanny",
+        "data_hora": "2025-03-02 22:06:50",
+        "conteudo": "Estou no evento carnaval em Natal, na praça dos gringos em ponta negra. E ao lado esquerdo do palco principal tem dois jovens, um homem e uma mulher, comercializando drogas que parecem ser maconha, cocaína e loló. O homem está fantasiado de homem de ferro, é alto, tem cabelo ruivo cacheado e a mulher está fantasiada de enfermeira. É baixa e tem cabelo longo e liso preto com mechas loiras."
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 318229493,
+        "usuario": "Stephanny",
+        "data_hora": "2025-03-02 22:06:54",
+        "conteudo": "Estou no evento carnaval em Natal, na praça dos gringos em ponta negra. E ao lado esquerdo do palco principal tem dois jovens, um homem e uma mulher, comercializando drogas que parecem ser maconha, cocaína e loló. O homem está fantasiado de homem de ferro, é alto, tem cabelo ruivo cacheado e a mulher está fantasiada de enfermeira. É baixa e tem cabelo longo e liso preto com mechas loiras."
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 318229493,
+        "usuario": "Stephanny",
+        "data_hora": "2025-03-02 22:08:08",
+        "conteudo": "Oi"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 318229493,
+        "usuario": "Stephanny",
+        "data_hora": "2025-03-02 22:09:42",
+        "conteudo": "Mensagem sem texto"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 318229493,
+        "usuario": "Stephanny",
+        "data_hora": "2025-03-02 22:13:23",
+        "conteudo": "A torre do condomínio é a \"torre A\""
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 318229493,
+        "usuario": "Stephanny",
+        "data_hora": "2025-03-02 22:13:29",
+        "conteudo": "o meu vizinho está agredindo uma mulher que eu acredito ser sua companheira eu moro no condomínio Villa Park na Rua Escritor eulício Farias Lacerda 1234 no bairro de Ponta Negra em Natal e na torre a o meu vizinho que eu acredito ser do apartamento 207 está agredindo uma moça ela está gritando pedindo socorro eu ouvi barulhos altos e arrastado de objetos\nA torre do condomínio é a \"torre A\""
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-02 22:19:51",
+        "conteudo": "O meu vizinho está agredindo uma mulher que eu acredito ser sua companheira. Eu moro no condomínio Villa Park, na Rua escritor eulicio farias Lacerda, 1234, no bairro de ponta negra em Natal. Na torre A, o meu vizinho que eu acredito ser do apartamento 206 está agredindo uma moça. Ela está gritando pedindo por socorro. Eu ouvi barulhos altos e arrastados de objetos"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 6822773384,
+        "usuario": "Pedro",
+        "data_hora": "2025-03-02 22:19:54",
+        "conteudo": "O meu vizinho está agredindo uma mulher que eu acredito ser sua companheira. Eu moro no condomínio Villa Park, na Rua escritor eulicio farias Lacerda, 1234, no bairro de ponta negra em Natal. Na torre A, o meu vizinho que eu acredito ser do apartamento 206 está agredindo uma moça. Ela está gritando pedindo por socorro. Eu ouvi barulhos altos e arrastados de objetos"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 1323403700,
+        "usuario": "Clausan",
+        "data_hora": "2025-03-02 22:35:26",
+        "conteudo": "/start"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 1323403700,
+        "usuario": "Clausan",
+        "data_hora": "2025-03-02 22:35:46",
+        "conteudo": "Quero registrar uma ocorrência"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 1323403700,
+        "usuario": "Clausan",
+        "data_hora": "2025-03-02 22:36:29",
+        "conteudo": "Mensagem sem texto"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 1323403700,
+        "usuario": "Clausan",
+        "data_hora": "2025-03-02 22:37:12",
+        "conteudo": "Mensagem sem texto"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 1323403700,
+        "usuario": "Clausan",
+        "data_hora": "2025-03-02 22:37:25",
+        "conteudo": "Mensagem sem texto"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 802568556,
+        "usuario": "mari",
+        "data_hora": "2025-03-02 22:41:34",
+        "conteudo": "/start"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 802568556,
+        "usuario": "mari",
+        "data_hora": "2025-03-02 22:41:48",
+        "conteudo": "boa noite"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 802568556,
+        "usuario": "mari",
+        "data_hora": "2025-03-02 22:42:39",
+        "conteudo": "Mensagem sem texto"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 802568556,
+        "usuario": "mari",
+        "data_hora": "2025-03-02 22:43:00",
+        "conteudo": "📍 Localização: Rua Bernadete, Zumbi, Rio do Fogo, Região Geográfica Imediata de Natal, Região Geográfica Intermediária de Natal, Rio Grande do Norte, Região Nordeste, Brasil (Latitude: -5.330862, Longitude: -35.364224)"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 1323403700,
+        "usuario": "Clausan",
+        "data_hora": "2025-03-02 22:55:44",
+        "conteudo": "Mensagem sem texto"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 1323403700,
+        "usuario": "Clausan",
+        "data_hora": "2025-03-02 22:56:19",
+        "conteudo": "Parece que está armado ... Ouvi um disparo de revólver"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 1323403700,
+        "usuario": "Clausan",
+        "data_hora": "2025-03-02 22:56:28",
+        "conteudo": "Quero registrar uma ocorrência Olha eu tenho um vizinho casal aqui que tão brigando muito e eu acho que ele está batendo nela ela tá pedindo por socorro tá gritando chorando aqui tem um barulho de coisa quebrada coisa caindo eu acho que ele tá machucando ela tem como mandar uma viatura aqui para verificar essa situação os nomes dele é Paulo e Eduarda eles moram aqui no condomínio beleza Ferreira no terceiro andar apartamento 303\n📍 Localização: Comando Geral da Polícia Militar do Rio Grande do Norte, Avenida Rodrigues Alves, Tirol, Zona Leste, Natal, Região Geográfica Imediata de Natal, Região Geográfica Intermediária de Natal, Rio Grande do Norte, Região Nordeste, 59020-065, Brasil (Latitude: -5.79557, Longitude: -35.202741)\nParece que está armado ... Ouvi um disparo de revólver"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 802568556,
+        "usuario": "mari",
+        "data_hora": "2025-03-02 23:18:58",
+        "conteudo": "oi"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 802568556,
+        "usuario": "mari",
+        "data_hora": "2025-03-02 23:24:21",
+        "conteudo": "Fui vítima de assédio sexual numa festa na praia de Zumbi, estava comprando bebidas e um cara passou com mais alguns amigos dizendo coisas nojentas e me deixando desconfortável. isso aconteceu hoje, dia 02/03/2025, agora a pouco, às 19:30 da noite. estava num mercadinho aqui perto da praia."
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 802568556,
+        "usuario": "mari",
+        "data_hora": "2025-03-02 23:24:36",
+        "conteudo": "Mensagem sem texto"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 802568556,
+        "usuario": "mari",
+        "data_hora": "2025-03-02 23:24:48",
+        "conteudo": "Fui vítima de assédio sexual numa festa na praia de Zumbi, estava comprando bebidas e um cara passou com mais alguns amigos dizendo coisas nojentas e me deixando desconfortável. isso aconteceu hoje, dia 02/03/2025, agora a pouco, às 19:30 da noite. estava num mercadinho aqui perto da praia.\n📍 Localização: Zumbi, Rio do Fogo, Região Geográfica Imediata de Natal, Região Geográfica Intermediária de Natal, Rio Grande do Norte, Região Nordeste, Brasil (Latitude: -5.331047, Longitude: -35.363988)"
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 318229493,
+        "usuario": "Stephanny",
+        "data_hora": "2025-03-03 00:32:06",
+        "conteudo": "Fui vítima de um golpe do Pix\n\nUma suposta loja no Instagram me vendeu um smartwatch da Xiaomi, fiz o pagamento de 399.90 via Pix e agora a loja não aparece mais a conta da loja era @lojateste. Fiz o pagamento ontem do banco Inter para a chave Pix 84999887755 em nome de Ana Maria da Silva do banco Santander."
+    },
+    {
+        "tipo": "mensagem",
+        "chat_id": 318229493,
+        "usuario": "Stephanny",
+        "data_hora": "2025-03-03 00:32:13",
+        "conteudo": "Fui vítima de um golpe do Pix\n\nUma suposta loja no Instagram me vendeu um smartwatch da Xiaomi, fiz o pagamento de 399.90 via Pix e agora a loja não aparece mais a conta da loja era @lojateste. Fiz o pagamento ontem do banco Inter para a chave Pix 84999887755 em nome de Ana Maria da Silva do banco Santander."
+    }
+]
