@@ -7,6 +7,7 @@ from flask_app.services.message_service import responder, start, callback
 from flask_app.services.audio_service import handle_audio
 from flask_app.services.location_service import receber_localizacao
 from flask_app.services.image_service import handle_image
+from flask_app.services.arquivo_service import receber_arquivo
 
 TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 bot = Bot(token=TOKEN)
@@ -20,6 +21,7 @@ application.add_handler(CallbackQueryHandler(callback))
 application.add_handler(MessageHandler(filters.AUDIO | filters.VOICE, handle_audio))
 application.add_handler(MessageHandler(filters.LOCATION, receber_localizacao))
 application.add_handler(MessageHandler(filters.PHOTO, handle_image))
+application.add_handler(MessageHandler(filters.Document.ALL, receber_arquivo))
 
 async def initialize_bot():
     """Inicializa o Application uma única vez (sem polling, pois usaremos webhook)."""
