@@ -11,6 +11,5 @@ pytesseract
 pillow
 opencv-python
 nest_asyncio
-
-
+pytz
 
