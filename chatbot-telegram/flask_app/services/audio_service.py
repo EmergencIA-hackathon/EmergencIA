@@ -64,10 +64,16 @@ async def handle_audio(update: Update, context: CallbackContext) -> None:
             usuario_ocorrencias[user_id]["estado"] = "esperando_confirmacao"
             return
 
-    usuario_ocorrencias[user_id] = {
-        "estado": "esperando_confirmacao",
-        "ocorrencia": transcricao
-    }
+    else:
+        if usuario_ocorrencias[user_id]["estado"] == "registrando_ocorrencia":
+            return
+
+    if user_id not in usuario_ocorrencias:
+        usuario_ocorrencias[user_id] = {"estado": "registrando_ocorrencia", "ocorrencia": ""}
+
+    usuario_ocorrencias[user_id]["ocorrencia"] += f" {transcricao}"
+    usuario_ocorrencias[user_id]["estado"] = "esperando_confirmacao"
+
     
     teclado = InlineKeyboardMarkup([
         [
@@ -79,3 +85,4 @@ async def handle_audio(update: Update, context: CallbackContext) -> None:
         f"📝 Ocorrência registrada: '{transcricao}'\nDeseja adicionar mais alguma coisa? (sim/não)",
         reply_markup=teclado
     )
+

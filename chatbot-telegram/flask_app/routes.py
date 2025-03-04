@@ -45,72 +45,30 @@ def index():
 
 @api.route('/webhook', methods=['POST'])
 def webhook():
-    """Recebe atualizações do Telegram via webhook e as processa utilizando o loop global."""
     data = request.get_json()
 
     if not data:
         return jsonify({"error": "Dados inválidos recebidos"}), 400
 
-    # verifica se é uma mensagem normal
-    if "message" in data:
-        message = data["message"]
-        chat_id = message["chat"]["id"]
-        user_name = message["from"]["first_name"]
-        timestamp = message["date"]
-        text = message.get("text", "Mensagem sem texto")
-
-        data_formatada = datetime.utcfromtimestamp(timestamp).strftime('%Y-%m-%d %H:%M:%S')
-
-        nova_ocorrencia = {
-            "tipo": "mensagem",
-            "chat_id": chat_id,
-            "usuario": user_name,
-            "data_hora": data_formatada,
-            "conteudo": text
-        }
-
-
-        salvar_ocorrencia(nova_ocorrencia)
-        asyncio.run_coroutine_threadsafe(processar_update(Update.de_json(data, bot=bot)), get_loop())
-        response = jsonify({"message": "Webhook recebido"})
-        return response, 200
-
-    # verifica se é um callback de uma enquete ou botão
-    elif "callback_query" in data:
-        callback_query = data["callback_query"]
-        user_id = callback_query["from"]["id"]
-        data_resposta = callback_query["data"]
-
-        asyncio.run_coroutine_threadsafe(processar_update(Update.de_json(data, bot=bot)), get_loop())
-        return jsonify({"message": "Voto recebido com sucesso"}), 200
-
-    return jsonify({"error": "Tipo de dado não suportado"}), 400
+    asyncio.run_coroutine_threadsafe(processar_update(Update.de_json(data, bot=bot)), get_loop())
+    return jsonify({"message": "Webhook recebido"}), 200
 
 @api.route('/ocorrencias', methods=['GET'])
 def listar_ocorrencias():
     return jsonify(carregar_ocorrencias())
-
 
 @api.route('/ocorrencias', methods=['POST'])
 async def adicionar_ocorrencia():
     dados = request.json
     if all(k in dados for k in ["tipo", "conteudo", "chat_id", "usuario", "data_hora"]):
         salvar_ocorrencia(dados)
-
-        text = dados["conteudo"]
-        user = dados["usuario"]
-
-        cached_data.append({
-            "usuario": user,
-            "dados": await acionar_agentes(text)
-            })
-
+        cached_data.append({"usuario": dados["usuario"],"dados": await acionar_agentes(dados["conteudo"])})
         return jsonify({"mensagem": "Ocorrência registrada com sucesso!"}), 201
     return jsonify({"erro": "Formato inválido. Certifique-se de enviar 'tipo', 'conteudo', 'chat_id', 'usuario' e 'data_hora'."}), 400
 
-@api.get('/dados')
-def dados_api_agentes():
-    if (cached_data != []):
-        return jsonify(cached_data)
+@api.route('/dados', methods=['GET'])
+def dados_ocorrencias():
+    if (cached_data == []):
+        return jsonify({"mensagem": "Não há nenhuma ocorrência registrada no momento."})
     
-    return jsonify({"Mensagem":"Tem nada aqui não, paizão"})
+    return jsonify(cached_data)

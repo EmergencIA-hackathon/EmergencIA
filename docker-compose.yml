@@ -6,7 +6,6 @@ services:
       - "5000:5000"
     restart: unless-stopped
     working_dir: /app/flask_app    
-    command: ["python", "app.py"] 
     environment:
       - PYTHONUNBUFFERED=1
       - TELEGRAM_BOT_TOKEN=${TELEGRAM_BOT_TOKEN}
@@ -19,6 +18,8 @@ services:
       - emergencia_network
     depends_on:
       - ngrok
+    command: ["/bin/bash", "-c", "/app/set_webhook.sh && python /app/flask_app/app.py"]
+
 
   api-agentes:
     container_name: emergencia_node_cont
@@ -34,14 +35,16 @@ services:
 
   ngrok:
     container_name: emergencia_ngrok_cont
-    image: wernight/ngrok
+    image: ngrok/ngrok
     env_file:
       - .env  
     environment:
       - NGROK_AUTHTOKEN=${NGROK_AUTHTOKEN} 
-      - NGROK_PORT=telegram-bot:5000
     ports:
-      - "4041:4040" 
+      - "4041:4040"  # Porta para acessar o dashboard do ngrok e ver os túneis
+    command: ["http", "telegram-bot:5000", "--log=stdout", "--hostname=${NGROK_HOSTNAME}"]
+    networks:
+      - emergencia_network
       
   dashboard:
     container_name: emergencia_dashboard_cont
@@ -55,6 +58,7 @@ services:
       - emergencia_network
     depends_on:
       - telegram-bot
+
 
 networks:
   emergencia_network:
