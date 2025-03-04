@@ -12,7 +12,8 @@ nest_asyncio.apply()
 
 api = Blueprint('api', __name__)
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-JSON_FILE = os.path.join(BASE_DIR, "ocorrencias.json")
+JSON_FILE = os.path.join(BASE_DIR, "mensagens.json")
+JSON_FILE_OCS = os.path.join(BASE_DIR, "ocorrencias.json")
 
 cached_data = []
 
@@ -63,6 +64,12 @@ async def adicionar_ocorrencia():
     if all(k in dados for k in ["tipo", "conteudo", "chat_id", "usuario", "data_hora"]):
         salvar_ocorrencia(dados)
         cached_data.append({"usuario": dados["usuario"],"dados": await acionar_agentes(dados["conteudo"])})
+        
+        json_data = json.dumps(cached_data, indent=4, ensure_ascii=False)
+        # Salva no arquivo ocorrencias.json
+        with open(JSON_FILE_OCS, "w", encoding="utf-8") as file:
+            file.write(json_data)
+
         return jsonify({"mensagem": "Ocorrência registrada com sucesso!"}), 201
     return jsonify({"erro": "Formato inválido. Certifique-se de enviar 'tipo', 'conteudo', 'chat_id', 'usuario' e 'data_hora'."}), 400
 

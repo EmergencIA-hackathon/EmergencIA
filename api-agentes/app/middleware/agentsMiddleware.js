@@ -16,6 +16,7 @@ export const transcribeText = async (req, res, next) => {
         console.log("Transcribing text...");
         req.body.texto_formalizado = await scrivenerAgent.invoke(prompt);
         console.log("Done transcribing text.");
+        setTimeout(() => null, 60000)
         next();
     } catch (error) {
         console.error("Error while transcribing text:", error);
@@ -34,6 +35,7 @@ export const extractGenericData = async (req, res, next) => {
 
         req.body.genericJson = genericJson;
         console.log("Done extracting generic data.");
+        setTimeout(() => null, 60000)
         next();
     } catch (error) {
         console.error("Error while extracting generic data:", error);

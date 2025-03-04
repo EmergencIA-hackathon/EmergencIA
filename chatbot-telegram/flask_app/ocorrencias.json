@@ -1,30 +1,86 @@
 [
     {
-        "tipo": "mensagem",
-        "chat_id": 6822773384,
         "usuario": "Pedro",
-        "data_hora": "2025-03-04 12:32:52",
-        "conteudo": "na Tarde do dia 25/10 2025 eu vi um homem vestido de branco completamente de branco saindo de um hospital segurando uma pistola e ele assaltou uma moça que ele levou a manga que ela tava segurando foi a única coisa que ele levou"
+        "dados": {
+            "status": 429,
+            "headers": {
+                "alt-svc": "h3=\":443\"; ma=86400",
+                "cf-cache-status": "DYNAMIC",
+                "cf-ray": "91b51db50a30cb34-GIG",
+                "connection": "keep-alive",
+                "content-length": "367",
+                "content-type": "application/json; charset=utf-8",
+                "date": "Tue, 04 Mar 2025 23:22:30 GMT",
+                "retry-after": "20",
+                "retry-after-ms": "20000",
+                "server": "cloudflare",
+                "set-cookie": "__cf_bm=IOBo9pgF8dQ2AkXbqDMEXyarE1yyfooduyaKUQPdtP8-1741130550-1.0.1.1-5Oae0gwOFMLzCTPD03qup0WMSMajBEnaQhKlkHIbkreGgSoqZbkAXjAcOra4islfa7ZDIn74316lKObORxVG.UN6Wc22p.3MfzgZJDRNiHA; path=/; expires=Tue, 04-Mar-25 23:52:30 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None, _cfuvid=ii1A.P4obW9fNohIU_wO.sWOgDRDtbjKSvS27jTLX50-1741130550729-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None",
+                "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+                "vary": "Origin",
+                "x-content-type-options": "nosniff",
+                "x-ratelimit-limit-requests": "200",
+                "x-ratelimit-limit-tokens": "100000",
+                "x-ratelimit-remaining-requests": "192",
+                "x-ratelimit-remaining-tokens": "68",
+                "x-ratelimit-reset-requests": "51m22.521s",
+                "x-ratelimit-reset-tokens": "719h30m20.078s",
+                "x-request-id": "req_fa18a1a3304c0e1291b5e34b22bd1126"
+            },
+            "request_id": "req_fa18a1a3304c0e1291b5e34b22bd1126",
+            "error": {
+                "message": "Rate limit reached for gpt-4o-mini in organization org-scwBK4iw5UWpCY8BVQw0KDoM on requests per min (RPM): Limit 3, Used 3, Requested 1. Please try again in 20s. Visit https://platform.openai.com/account/rate-limits to learn more.",
+                "type": "requests",
+                "param": null,
+                "code": "rate_limit_exceeded"
+            },
+            "code": "rate_limit_exceeded",
+            "param": null,
+            "type": "requests",
+            "lc_error_code": "MODEL_RATE_LIMIT",
+            "attemptNumber": 4,
+            "retriesLeft": 3
+        }
     },
     {
-        "tipo": "mensagem",
-        "chat_id": 6822773384,
         "usuario": "Pedro",
-        "data_hora": "2025-03-04 12:40:22",
-        "conteudo": "Ei meu vizinho tá aqui dizendo que mataram um cachorro um periquito um papagaio e um gato chegue homem cuide por caridade"
-    },
-    {
-        "tipo": "mensagem",
-        "chat_id": 6822773384,
-        "usuario": "Pedro",
-        "data_hora": "2025-03-04 12:42:09",
-        "conteudo": "Ei, me roubaram aqui no condomínio Serrambi 2\n📍 Localização: Rua Natal, Conjuntos Serrambi, Ponta Negra, Região Sul, Natal, Região Geográfica Imediata de Natal, Região Geográfica Intermediária de Natal, Rio Grande do Norte, Região Nordeste, 59088-760, Brasil (Latitude: -5.881223, Longitude: -35.196716)"
-    },
-    {
-        "tipo": "mensagem",
-        "chat_id": 6822773384,
-        "usuario": "Pedro",
-        "data_hora": "2025-03-04 12:44:33",
-        "conteudo": "Ei, me roubaram no Serrambi 2\nRua Escritor Eulicio Farias Lacerda 1630. Ponta Negra, Natal RN"
+        "dados": {
+            "status": 429,
+            "headers": {
+                "alt-svc": "h3=\":443\"; ma=86400",
+                "cf-cache-status": "DYNAMIC",
+                "cf-ray": "91b525185a28e012-GIG",
+                "connection": "keep-alive",
+                "content-length": "367",
+                "content-type": "application/json; charset=utf-8",
+                "date": "Tue, 04 Mar 2025 23:27:33 GMT",
+                "retry-after": "20",
+                "retry-after-ms": "20000",
+                "server": "cloudflare",
+                "set-cookie": "__cf_bm=1NBVtd03udYeuu.M9v4QYwhnf9Wu24QgYbATE1Uc6NY-1741130853-1.0.1.1-1EhlNpb7Egf5TzAmxV0N0bkFEaxyM.woF0jLwitRj7jE8PdNaoIqJ2RnZ0hiSlH2J2WE43A6.xmXFW0dTjl.9hRGLNU8g.CYVI5r0RuxIn8; path=/; expires=Tue, 04-Mar-25 23:57:33 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None, _cfuvid=0KxfI70Lu1OfzQKntsJxjKp1IlWwCG.SAEI1Nde4FSA-1741130853593-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None",
+                "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+                "vary": "Origin",
+                "x-content-type-options": "nosniff",
+                "x-ratelimit-limit-requests": "200",
+                "x-ratelimit-limit-tokens": "100000",
+                "x-ratelimit-remaining-requests": "180",
+                "x-ratelimit-remaining-tokens": "80",
+                "x-ratelimit-reset-requests": "2h19m55.661s",
+                "x-ratelimit-reset-tokens": "719h25m17.217s",
+                "x-request-id": "req_0bdb2ce8ed715e8aeafacbacdbd608ce"
+            },
+            "request_id": "req_0bdb2ce8ed715e8aeafacbacdbd608ce",
+            "error": {
+                "message": "Rate limit reached for gpt-4o-mini in organization org-scwBK4iw5UWpCY8BVQw0KDoM on requests per min (RPM): Limit 3, Used 3, Requested 1. Please try again in 20s. Visit https://platform.openai.com/account/rate-limits to learn more.",
+                "type": "requests",
+                "param": null,
+                "code": "rate_limit_exceeded"
+            },
+            "code": "rate_limit_exceeded",
+            "param": null,
+            "type": "requests",
+            "lc_error_code": "MODEL_RATE_LIMIT",
+            "attemptNumber": 4,
+            "retriesLeft": 3
+        }
     }
 ]

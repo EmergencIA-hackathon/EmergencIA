@@ -5,3 +5,4 @@
 **/*.log
 **/docker-compose.override.yml
 **/ocorrencias.json
+**/mensagens.json
